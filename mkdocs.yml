@@ -7,5 +7,5 @@ theme:
     font: false
     language: zh
 nav:
-    - 介绍: index.md
+    - 前言: qianyan.md
     - 路由: about.md
