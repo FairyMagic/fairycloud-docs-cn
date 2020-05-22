@@ -1,0 +1,11 @@
+site_name: Fairycloud 中文文档
+repo_url: https://github.com/FairyMagic/fairycloud
+docs_dir: sources
+site_dir: docs
+theme:
+    name: material
+    font: false
+    language: zh
+nav:
+    - 介绍: index.md
+    - 路由: about.md
